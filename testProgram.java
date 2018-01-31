@@ -25,6 +25,7 @@ public class testProgram{
 
 		System.out.println("可能不会吧！");
 		
+		System.out.println("前面的你们能不能带我一起玩！！")
 		
 	}
 

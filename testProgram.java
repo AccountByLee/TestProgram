@@ -19,6 +19,10 @@ public class testProgram{
 
 		System.out.println("version 5.0 李旭请教我僻邪剑谱");
 		
+                System.out.println("什么鬼");
+
+	        System.out.println("找不到");
+
 		System.out.println("wo shi fengxiaobao !!");
 
 		System.out.println("李旭会吗？");	
@@ -27,6 +31,7 @@ public class testProgram{
 		
 		System.out.println("前面的你们能不能带我一起玩！！")
 		
+		111	
 	}
 
 

@@ -20,6 +20,8 @@ public class testProgram{
 		System.out.println("version 5.0 李旭请教我僻邪剑谱");
 		
 		System.out.println("wo shi fengxiaobao !!");
+
+		System.out.println("可能不会吧！");
 	}
 
 

@@ -1,4 +1,4 @@
-
+﻿
 public class testProgram{
 	
 	public static void main (String[]args ){
@@ -21,7 +21,11 @@ public class testProgram{
 		
 		System.out.println("wo shi fengxiaobao !!");
 
+		System.out.println("李旭会吗？");	
+
 		System.out.println("可能不会吧！");
+		
+		
 	}
 
 

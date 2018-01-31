@@ -32,7 +32,7 @@ public class testProgram{
 		System.out.println("前面的你们能不能带我一起玩！！")
 		
 		System.out.println("充 VIP 会员 ，带你砍遍全世界，你好 我是渣渣振！！")
-		
+		System.out.pringln("sshtest crp_version6.0");	
 		111	
 	}
 

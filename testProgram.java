@@ -21,6 +21,8 @@ public class testProgram{
 		
                 System.out.println("什么鬼");
 
+	        System.out.println("找不到");
+
 		System.out.println("wo shi fengxiaobao !!");
 	}
 
